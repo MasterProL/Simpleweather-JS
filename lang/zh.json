@@ -1,0 +1,22 @@
+{
+  "label.lang": "语言:",
+  "aria.selectLanguage": "选择语言",
+  "placeholder": "输入城市名称",
+  "button": "获取天气",
+  "loading": "加载中...",
+  "humidity": "湿度:",
+  "degree": "°C",
+  "errorEmpty": "请输入城市名称。",
+  "errorFetch": "无法获取天气数据",
+  "title": "天气",
+  "temperature": "温度",
+  "wind_speed": "风速",
+  "pressure": "气压",
+  "visibility": "能见度",
+  "feels_like": "体感温度",
+  "sunrise": "日出",
+  "sunset": "日落",
+  "cloudiness": "云量",
+  "uv_index": "紫外线指数",
+  "dew_point": "露点"
+}

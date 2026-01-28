@@ -1,0 +1,22 @@
+{
+  "label.lang": "Idioma:",
+  "aria.selectLanguage": "Seleccionar idioma",
+  "placeholder": "Ingrese el nombre de la ciudad",
+  "button": "Obtener clima",
+  "loading": "Cargando...",
+  "humidity": "Humedad:",
+  "degree": "°C",
+  "errorEmpty": "Por favor, ingrese un nombre de ciudad.",
+  "errorFetch": "No se pudieron obtener los datos del clima",
+  "title": "Clima",
+  "temperature": "Temperatura",
+  "wind_speed": "Velocidad del viento",
+  "pressure": "Presión",
+  "visibility": "Visibilidad",
+  "feels_like": "Se siente como",
+  "sunrise": "Salida del sol",
+  "sunset": "Puesta del sol",
+  "cloudiness": "Nubosidad",
+  "uv_index": "Índice UV",
+  "dew_point": "Punto de rocío"
+}

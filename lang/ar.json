@@ -1,0 +1,22 @@
+{
+  "label.lang": "اللغة:",
+  "aria.selectLanguage": "اختر اللغة",
+  "placeholder": "أدخل اسم المدينة",
+  "button": "احصل على الطقس",
+  "loading": "جاري التحميل...",
+  "humidity": "الرطوبة:",
+  "degree": "°م",
+  "errorEmpty": "الرجاء إدخال اسم المدينة.",
+  "errorFetch": "تعذر جلب بيانات الطقس",
+  "title": "الطقس",
+  "temperature": "درجة الحرارة",
+  "wind_speed": "سرعة الرياح",
+  "pressure": "الضغط",
+  "visibility": "الرؤية",
+  "feels_like": "يشعر بـ",
+  "sunrise": "شروق الشمس",
+  "sunset": "غروب الشمس",
+  "cloudiness": "الغيوم",
+  "uv_index": "مؤشر الأشعة فوق البنفسجية",
+  "dew_point": "نقطة الندى"
+}

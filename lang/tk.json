@@ -1,0 +1,20 @@
+{
+  "label.lang": "Dil:",
+  "aria.selectLanguage": "Dil sayla",
+  "placeholder": "Şäher adyny giriziň",
+  "button": "Howa habary al",  "loading": "Ýükleniş...",  "humidity": "Çygalylyk:",
+  "degree": "°C",
+  "errorEmpty": "Şäher adyny giriziň.",
+  "errorFetch": "Howa maglumatlary alynyp bilmedi",
+  "title": "Howa",
+  "temperature": "Temperatura",
+  "wind_speed": "Ýel tizligi",
+  "pressure": "Basyş",
+  "visibility": "Görüş uzaklygы",
+  "feels_like": "Sesiilýän",
+  "sunrise": "Gün çykmagy",
+  "sunset": "Gün batagy",
+  "cloudiness": "Bulut",
+  "uv_index": "UV indeksi",
+  "dew_point": "Çyg nokady"
+}

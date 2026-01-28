@@ -1,0 +1,22 @@
+{
+  "label.lang": "언어:",
+  "aria.selectLanguage": "언어 선택",
+  "placeholder": "도시명을 입력하세요",
+  "button": "날씨 조회",
+  "loading": "로딩 중...",
+  "humidity": "습도:",
+  "degree": "°C",
+  "errorEmpty": "도시명을 입력해주세요.",
+  "errorFetch": "날씨 데이터를 가져올 수 없습니다",
+  "title": "날씨",
+  "temperature": "온도",
+  "wind_speed": "풍속",
+  "pressure": "기압",
+  "visibility": "가시거리",
+  "feels_like": "체감온도",
+  "sunrise": "일출",
+  "sunset": "일몰",
+  "cloudiness": "구름",
+  "uv_index": "자외선 지수",
+  "dew_point": "이슬점"
+}

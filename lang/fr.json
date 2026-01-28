@@ -1,0 +1,22 @@
+{
+  "label.lang": "Langue :",
+  "aria.selectLanguage": "Sélectionner la langue",
+  "placeholder": "Entrez le nom de la ville",
+  "button": "Obtenir la météo",
+  "loading": "Chargement...",
+  "humidity": "Humidité :",
+  "degree": "°C",
+  "errorEmpty": "Veuillez entrer un nom de ville.",
+  "errorFetch": "Impossible de récupérer les données météorologiques",
+  "title": "Météo",
+  "temperature": "Température",
+  "wind_speed": "Vitesse du vent",
+  "pressure": "Pression",
+  "visibility": "Visibilité",
+  "feels_like": "Ressenti",
+  "sunrise": "Lever du soleil",
+  "sunset": "Coucher du soleil",
+  "cloudiness": "Nébulosité",
+  "uv_index": "Indice UV",
+  "dew_point": "Point de rosée"
+}

@@ -1,0 +1,22 @@
+{
+  "label.lang": "زبان:",
+  "aria.selectLanguage": "انتخاب زبان",
+  "placeholder": "نام شهر را وارد کنید",
+  "button": "دریافت آب و هوا",
+  "loading": "در حال بارگیری...",
+  "humidity": "رطوبت:",
+  "degree": "°C",
+  "errorEmpty": "لطفاً نام شهر را وارد کنید.",
+  "errorFetch": "نتوانست اطلاعات آب و هوا را دریافت کند",
+  "title": "آب و هوا",
+  "temperature": "دما",
+  "wind_speed": "سرعت باد",
+  "pressure": "فشار",
+  "visibility": "دید",
+  "feels_like": "احساس می کند",
+  "sunrise": "طلوع آفتاب",
+  "sunset": "غروب آفتاب",
+  "cloudiness": "ابری",
+  "uv_index": "شاخص UV",
+  "dew_point": "نقطه شبنم"
+}

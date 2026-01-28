@@ -1,0 +1,22 @@
+{
+  "label.lang": "Til:",
+  "aria.selectLanguage": "Tilni tanlang",
+  "placeholder": "Shahar nomini kiriting",
+  "button": "Ob-havoni olish",
+  "loading": "Yuklanmoqda...",
+  "humidity": "Namlik:",
+  "degree": "°C",
+  "errorEmpty": "Iltimos, shahar nomini kiriting.",
+  "errorFetch": "Ob-havo ma'lumotlarini olishda xato",
+  "title": "Ob-havo",
+  "temperature": "Harorat",
+  "wind_speed": "Shamol tezligi",
+  "pressure": "Bosim",
+  "visibility": "Ko'rinish",
+  "feels_like": "Xuddi shunday his qiladi",
+  "sunrise": "Quyosh chiqishi",
+  "sunset": "Quyosh botishi",
+  "cloudiness": "Bulutliliq",
+  "uv_index": "UV indeksi",
+  "dew_point": "Shuvningizning nuqtasi"
+}

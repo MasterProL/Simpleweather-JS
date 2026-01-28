@@ -1,0 +1,22 @@
+{
+  "label.lang": "Dil:",
+  "aria.selectLanguage": "Dil seç",
+  "placeholder": "Şehir adını girin",
+  "button": "Hava durumunu al",
+  "loading": "Yükleniyor...",
+  "humidity": "Nem:",
+  "degree": "°C",
+  "errorEmpty": "Lütfen şehir adı girin.",
+  "errorFetch": "Hava durumu verileri alınamadı",
+  "title": "Hava Durumu",
+  "temperature": "Sıcaklık",
+  "wind_speed": "Rüzgar Hızı",
+  "pressure": "Basınç",
+  "visibility": "Görüş Mesafesi",
+  "feels_like": "Hissedilen Sıcaklık",
+  "sunrise": "Gündoğumu",
+  "sunset": "Gündoğumu",
+  "cloudiness": "Bulutluluk",
+  "uv_index": "UV İndeksi",
+  "dew_point": "Çiğ Noktası"
+}

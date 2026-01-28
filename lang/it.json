@@ -1,0 +1,22 @@
+{
+  "label.lang": "Lingua:",
+  "aria.selectLanguage": "Seleziona lingua",
+  "placeholder": "Inserisci nome città",
+  "button": "Ottieni meteo",
+  "loading": "Caricamento...",
+  "humidity": "Umidità:",
+  "degree": "°C",
+  "errorEmpty": "Per favore, inserisci un nome di città.",
+  "errorFetch": "Impossibile recuperare i dati meteo",
+  "title": "Meteo",
+  "temperature": "Temperatura",
+  "wind_speed": "Velocità del vento",
+  "pressure": "Pressione",
+  "visibility": "Visibilità",
+  "feels_like": "Percepito come",
+  "sunrise": "Alba",
+  "sunset": "Tramonto",
+  "cloudiness": "Nuvolosità",
+  "uv_index": "Indice UV",
+  "dew_point": "Punto di rugiada"
+}

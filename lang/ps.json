@@ -1,0 +1,20 @@
+{
+  "label.lang": "ژبه:",
+  "aria.selectLanguage": "ژبه غوره کړئ",
+  "placeholder": "د ښار نوم داخل کړئ",
+  "button": "هوا معلومات اخلئ",  "loading": "لوډ کيدو...",  "humidity": "رطوبت:",
+  "degree": "°C",
+  "errorEmpty": "براہ کرم د ښار نوم داخل کړئ.",
+  "errorFetch": "نشو کولی د هوا معلومات اخيستنه",
+  "title": "هوا",
+  "temperature": "تودوخه",
+  "wind_speed": "د باد تيزي",
+  "pressure": "فشار",
+  "visibility": "لیدنه",
+  "feels_like": "احساس کوي",
+  "sunrise": "د لمر طلوع",
+  "sunset": "د لمر غروب",
+  "cloudiness": "ابرونه",
+  "uv_index": "UV شاخص",
+  "dew_point": "شبنم نقطه"
+}

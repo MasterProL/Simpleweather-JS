@@ -1,0 +1,22 @@
+{
+  "label.lang": "Sprache:",
+  "aria.selectLanguage": "Sprache wählen",
+  "placeholder": "Stadtnamen eingeben",
+  "button": "Wetter abrufen",
+  "loading": "Wird geladen...",
+  "humidity": "Luftfeuchtigkeit:",
+  "degree": "°C",
+  "errorEmpty": "Bitte geben Sie einen Stadtnamen ein.",
+  "errorFetch": "Wetterdaten konnten nicht abgerufen werden",
+  "title": "Wetter",
+  "temperature": "Temperatur",
+  "wind_speed": "Windgeschwindigkeit",
+  "pressure": "Luftdruck",
+  "visibility": "Sichtweite",
+  "feels_like": "Gefühlte Temperatur",
+  "sunrise": "Sonnenaufgang",
+  "sunset": "Sonnenuntergang",
+  "cloudiness": "Bewölkung",
+  "uv_index": "UV-Index",
+  "dew_point": "Taupunkt"
+}

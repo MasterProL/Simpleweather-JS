@@ -1,0 +1,12 @@
+{
+  "label.lang": "Lang:",
+  "aria.selectLanguage": "Select language",
+  "placeholder": "Enter city name",
+  "button": "Get Weather",
+  "loading": "Loading...",
+  "humidity": "Humidity:",
+  "degree": "°C",
+  "errorEmpty": "Please enter a city name.",
+  "errorFetch": "Could not fetch weather data",
+  "title": "Weather"
+}

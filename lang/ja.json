@@ -1,0 +1,22 @@
+{
+  "label.lang": "言語:",
+  "aria.selectLanguage": "言語を選択",
+  "placeholder": "都市名を入力",
+  "button": "天気を取得",
+  "loading": "読み込み中...",
+  "humidity": "湿度:",
+  "degree": "°C",
+  "errorEmpty": "都市名を入力してください。",
+  "errorFetch": "天気データを取得できませんでした",
+  "title": "天気",
+  "temperature": "気温",
+  "wind_speed": "風速",
+  "pressure": "気圧",
+  "visibility": "視程",
+  "feels_like": "体感温度",
+  "sunrise": "日の出",
+  "sunset": "日の入り",
+  "cloudiness": "曇り",
+  "uv_index": "紫外線指数",
+  "dew_point": "露点"
+}

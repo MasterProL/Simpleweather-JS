@@ -1,0 +1,22 @@
+{
+  "label.lang": "Ngôn ngữ:",
+  "aria.selectLanguage": "Chọn ngôn ngữ",
+  "placeholder": "Nhập tên thành phố",
+  "button": "Lấy thời tiết",
+  "loading": "Đang tải...",
+  "humidity": "Độ ẩm:",
+  "degree": "°C",
+  "errorEmpty": "Vui lòng nhập tên thành phố.",
+  "errorFetch": "Không thể tải dữ liệu thời tiết",
+  "title": "Thời tiết",
+  "temperature": "Nhiệt độ",
+  "wind_speed": "Tốc độ gió",
+  "pressure": "Áp suất",
+  "visibility": "Tầm nhìn",
+  "feels_like": "Cảm giác như",
+  "sunrise": "Mặt trời mọc",
+  "sunset": "Mặt trời lặn",
+  "cloudiness": "Độ che phủ mây",
+  "uv_index": "Chỉ số UV",
+  "dew_point": "Điểm sương"
+}

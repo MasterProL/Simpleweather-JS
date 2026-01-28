@@ -1,0 +1,22 @@
+{
+  "label.lang": "Bahasa:",
+  "aria.selectLanguage": "Pilih bahasa",
+  "placeholder": "Masukkan nama kota",
+  "button": "Dapatkan cuaca",
+  "loading": "Memuat...",
+  "humidity": "Kelembaban:",
+  "degree": "°C",
+  "errorEmpty": "Silakan masukkan nama kota.",
+  "errorFetch": "Tidak dapat mengambil data cuaca",
+  "title": "Cuaca",
+  "temperature": "Suhu",
+  "wind_speed": "Kecepatan angin",
+  "pressure": "Tekanan",
+  "visibility": "Jarak pandang",
+  "feels_like": "Terasa seperti",
+  "sunrise": "Terbit matahari",
+  "sunset": "Terbenam matahari",
+  "cloudiness": "Keberawan",
+  "uv_index": "Indeks UV",
+  "dew_point": "Titik embun"
+}

@@ -1,0 +1,20 @@
+{
+  "label.lang": "Забон:",
+  "aria.selectLanguage": "Забон интихоб кунед",
+  "placeholder": "Номи шахрро ворид кунед",
+  "button": "Обу хавои ихтиёр кунед",  "loading": "Бор ҳаст...",  "humidity": "Рутубат:",
+  "degree": "°C",
+  "errorEmpty": "Лутфан номи шахрро ворид кунед.",
+  "errorFetch": "Наметавон иттилооти обу хаворо гирифт",
+  "title": "Обу хавo",
+  "temperature": "Ҳарорат",
+  "wind_speed": "Суръати бод",
+  "pressure": "Фишор",
+  "visibility": "Дидаш",
+  "feels_like": "Ҳисс мекунем",
+  "sunrise": "Восъи офтоб",
+  "sunset": "Борифтан офтоб",
+  "cloudiness": "Абрҳо",
+  "uv_index": "Индекси UV",
+  "dew_point": "Нуқтаи шабнам"
+}
